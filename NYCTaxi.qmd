@@ -124,7 +124,6 @@ fig3.update_traces(
     opacity=0.8,
 )
 
-fig3.show()
 
 
 
